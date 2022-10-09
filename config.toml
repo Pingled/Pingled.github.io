@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dinguspingus.github.io/'
 languageCode = 'en-us'
 title = 'Isaac Atta'
 theme = "hugo-theme-monochrome"
