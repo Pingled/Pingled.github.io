@@ -4,7 +4,7 @@ weight: 3
 
 ---
 
-###### [Discord Bot](https://github.com/DingusPingus/DerpBox)
+##### [Discord Bot](https://github.com/DingusPingus/DerpBox)
 * this bot performed multiple different operations including API queries,
 database management, and statistics related tracking, and was able to
 manage these operations independently of all other servers it was
@@ -14,7 +14,7 @@ present in.
 
 **Libraries Used:** discord.py, osrs_api, osrsbox
 
-###### [Emojifier](https://github.com/DingusPingus/Emojify-Image)
+##### [Emojifier](https://github.com/DingusPingus/Emojify-Image)
 * This Python program converted a given image into a similar image with
 the difference being that each pixel of the original image represented a
 singular emoji.  
