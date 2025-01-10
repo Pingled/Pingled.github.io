@@ -6,14 +6,21 @@ weight: 2
 
 ###### Proficient
 * C++
+* Gosu
+* Java
 * Unity
 * Visual Studio
 * VS Code
+* IntelliJ
+* Guidewire Integrations
+* Guidewire InsuranceSuite (PolicyCenter, ClaimCenter, BillingCenter, ContactManager)
+* Guidewire Autopilot
+* Guidewire Integration Gateway
+
 
 ###### Competent
 * Python
 * C#
-* Java
 * JavaScript
 * HTMl/CSS
 * Unreal Engine
